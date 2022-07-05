@@ -1,4 +1,4 @@
-const NEWS_API_KEY = '6d99e08921434e1b9c2e043c7991977a';
+const NEWS_API_KEY = '';
 
 var request = require('request');
 
